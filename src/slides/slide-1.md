@@ -1,43 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title</title>
-    <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
-      }
-      .inverse {
-        /*background: #272822;*/
-        background: #000;
-        /*color: #777872;*/
-        color: #f3f3f3;
-        text-shadow: 0 0 20px #333;
-        }
-      .inverse h1, .inverse h2, .inverse a {
-        color: #f3f3f3;
-        line-height: 1.2em;
-       }
-       .inverse h3 {
-         color: #777872;
-       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-    </style>
-  </head>
-  <body>
-    <textarea id="source">
-
 class: center, middle, inverse
 
 # Meetup Paris Audio
 
-<img src="./media/img/vu_meter.jpg" height="200px" />
+<img src="./img/vu_meter.jpg" height="200px" />
 
 ## #ParisAudio
 
@@ -174,15 +139,6 @@ class: center, middle, inverse
 
 ## Rencontres du 3e type au 2e sous-sol
 
-<img src="./media/img/vu_meter.jpg" height="100px" />
+<img src="./img/vu_meter.jpg" height="100px" />
 
 ## #ParisAudio
-
-    </textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
-    </script>
-    <script>
-      var slideshow = remark.create();
-    </script>
-  </body>
-</html>
