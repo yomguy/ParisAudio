@@ -1,4 +1,4 @@
-# Vertigo - WP3
+ Vertigo - WP3
 <hr>
 ### Development Plan  Discussion - 16/03/2017
 <img src="img/vertigo_logo1.png" height="100px" />
@@ -77,4 +77,3 @@ class: vertigo
 
 - Social functions for the web?
 ---
-

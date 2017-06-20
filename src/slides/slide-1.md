@@ -11,9 +11,10 @@ class: inverse
 
 # Sessions
 
-- [Paris Audio #1 @ Mozilla](https://www.meetup.com/fr-FR/Paris-Audio/events/183927232/)
-- [Paris Audio #2 @ Radio France](https://www.meetup.com/fr-FR/Paris-Audio/events/214035842/)
-- [Paris Audio #3 @ IRCAM](Session3/index.html)
+- Paris Audio #1 @ Mozilla
+- Paris Audio #2 @ Radio France
+- Paris Audio #3 @ IRCAM
+- Paris Audio #4 @ Deezer
 
 ---
 class: inverse
@@ -142,3 +143,44 @@ class: center, middle, inverse
 <img src="./img/vu_meter.jpg" height="100px" />
 
 ## #ParisAudio
+
+---
+class: center, middle, inverse
+
+# Meetup Paris Audio
+
+<img src="./img/vu_meter.jpg" height="200px" />
+
+## #ParisAudio
+
+
+---
+class: inverse
+
+# Paris Audio #4 @ Deezer
+
+## Lineup
+
+- **Deezer R&D Team** : Surprise topic about Audio Digital Processing at Deezer (20mn)
+- **François Becker (Coronal Audio)** : Présentation du codec ARCADE (15mn)
+- **François Becker (Coronal Audio)** : Présentation de la technique de captation DuoMic. (5mn)
+- Choix des questions pour la session Q&A. (15mn)
+- Buffet (30 mn)
+- **Damien Plisson (Audirvana)** : Impact du logiciel de lecture sur la qualité sonore (30mn)
+- **Ivan COHEN (CEO @ Musical Entropy)** : Présentation de la nouvelle version de JUCE 5 (15mn)
+- Présentation du prochain #MusicHackDay @ IRCAM (5mn)
+- Session Q&A (30mn...)
+- Buffet (restes) & networking
+
+---
+class: center, middle, inverse
+
+# MusicHackDay @ IRCAM
+
+du 10 au 11 novembre 2017 (18:00 à 18:00)
+
+http://hacking2017.ircam.fr/
+
+dans le cadre du colloque international "Musique et hacking : Instruments, communautés, éthiques"
+
+-
