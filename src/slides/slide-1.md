@@ -147,12 +147,12 @@ class: center, middle, inverse
 ---
 class: center, middle, inverse
 
-# Meetup Paris Audio
+#   Paris Audio #4 @ Deezer
 
 <img src="./img/vu_meter.jpg" height="200px" />
 
 ## #ParisAudio
-
+## WiFi : DZ-Event / MyEventDzr
 
 ---
 class: inverse
@@ -175,12 +175,107 @@ class: inverse
 ---
 class: center, middle, inverse
 
+### Paris Audio #4
+
+# Deezer R&D Team
+
+## Surprise topic about Audio Digital Processing at Deezer
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# François Becker (Coronal Audio)
+
+## Présentation du codec ARCADE
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# François Becker (Coronal Audio)
+
+## Présentation de la technique de captation DuoMic.
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# Choix des questions pour la session Q&A
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# Buffet
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# Damien Plisson (Audirvana) : Impact du logiciel de lecture sur la qualité sonore
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+
+---
+class: center, middle, inverse
+
+### Paris Audio #4
+
+# Ivan COHEN (CEO @ Musical Entropy) : Présentation de la nouvelle version de JUCE 5
+
+### #ParisAudio
+### WiFi : DZ-Event / MyEventDzr
+
+
+---
+class: inverse
+
 # MusicHackDay @ IRCAM
 
 du 10 au 11 novembre 2017 (18:00 à 18:00)
 
 http://hacking2017.ircam.fr/
 
-dans le cadre du colloque international "Musique et hacking : Instruments, communautés, éthiques"
+dans le cadre du colloque international "Musique et hacking : Instruments, communautés, éthiques", 50 hackers (software et hardware) se déchaînent à l'IRCAM pendant 24h
 
--
+Objectifs :
+
+- conception de nouvelles lutheries électroniques (soft + hardware)
+- concert d'improvisation en fin de hackday
+- étude des processus de création
+
+Inscriptions par le meetup Paris Audio ;)
+
+---
+class: inverse
+
+# Session Q&A
+
+- latence lecture ffmpeg (Guillaume)
+- codec audio qui exploite la redondance temporelle (Nicolas)
+- évolution du TdS en HTML5 (Web) audio  : tout recoder ? (piem)
+- système ultra-portable de prise de son (Alexandre)
